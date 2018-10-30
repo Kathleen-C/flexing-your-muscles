@@ -9,12 +9,12 @@ html {
 }
 
 body {
-  margin: 0
+  margin: 0;
 }
 
 img {
   display: block;
-  width: 100%
+  width: 100%;
 }
 
 .footer {
@@ -57,11 +57,11 @@ img {
 }
 
 .social > li {
-  Margin: 0 .5em;
-  width: 3em
+  margin: 0 .5em;
+  width: 3em;
 }
 
 .copyright {
-  padding: 0 1rem
+  padding: 0 1rem;
   width: 100%;
 }
